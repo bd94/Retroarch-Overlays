@@ -1,1 +1,0 @@
-# These are plain overlays without a logo.
